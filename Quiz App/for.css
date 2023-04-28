@@ -1,0 +1,47 @@
+body{
+    background-color: lightslategrey;
+}
+#grade1{
+    background-color: white;
+    padding: 30px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+  
+   
+}
+#History{
+    background-color: white;
+    padding: 30px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+  
+
+}
+#general{
+    background-color: white;
+    padding: 30px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+  
+
+}
+#Advanced{
+    background-color: white;
+    padding: 30px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+  
+
+}
